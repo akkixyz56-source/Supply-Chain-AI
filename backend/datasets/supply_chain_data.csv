@@ -1,0 +1,8 @@
+date,product_id,warehouse_id,region,sales,stock_level,supplier_lead_time,promotion,holiday,risk
+2025-01-01,P101,WH1,North,120,500,5,1,0,Low
+2025-01-02,P101,WH1,North,130,470,5,0,0,Low
+2025-01-03,P101,WH1,North,140,450,4,1,0,Medium
+2025-01-04,P102,WH2,South,90,300,7,0,0,High
+2025-01-05,P103,WH1,East,200,600,6,1,1,Medium
+2025-01-06,P104,WH3,West,75,250,8,0,0,High
+2025-01-07,P101,WH1,North,160,400,5,1,0,Low
